@@ -1,0 +1,10 @@
+{
+    "email" : "#loginEmail",
+    "password" : "#password",
+    "loginButton" : "#loginSubmitButton",
+    "notifyMessage" : "span.ng-scope",
+    "forgotPasswordLink" : ".qa-login--link-forgot_password",
+    "usernameToReset" : "#resetPassword_username",
+    "backButton" : "#resetPasswordBackButton",
+    "resetPasswordButton" : "#resetPasswordSaveButton"
+}
